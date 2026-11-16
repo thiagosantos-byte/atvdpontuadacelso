@@ -33,5 +33,9 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.4"
+  },
+  "allowScripts": {
+    "better-sqlite3@12.11.1": true,
+    "esbuild@0.28.2": true
   }
 }
